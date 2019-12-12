@@ -1,2 +1,2 @@
 # hello-world
-Trainign with gitHub
+Training whith GitHub
